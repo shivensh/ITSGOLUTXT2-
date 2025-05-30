@@ -1,6 +1,6 @@
 
 {
-    "name": "Repo",
+    "name": "𝐈𝐓'𝐬𝐆𝐎𝐋𝐔.™®❤️",
     "description": "PW Without Purchase Repo",
     "repository": "https://github.com/",
     "keywords": [
@@ -10,19 +10,19 @@
     "env": {
         "API_ID":{
             "description": "Get your telegram API ID from https://my.telegram.org",
-            "value":"enter your api id here"
+            "value":"e2695501"
         },
         "API_HASH":{
             "description":"Get your telegram API HASH from https://my.telegram.org",
-		    "value":"enter your api hash here"
+		    "value":"9a544068ea55f54ca7725245d0e8f0f9"
         },
         "BOT_TOKEN":{
             "description":"Get from BotFather",
-            "value":"enter your bot token here"
+            "value":"7763372293:AAGhc-KPOTjG3wuP2zK_Za1HfK1raU039NQ"
         },
         "AUTH_USERS":{
-            "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
-            "value":"enter your auth user id here"
+            "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 8049118708,8049118708",
+            "value":"8049118708"
         }
     }
 
